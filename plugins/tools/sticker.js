@@ -1,5 +1,5 @@
 exports.run = {
-   usage: ['s', 'sk', 'stiker', 'sticker', 'sgif'],
+   usage: ['s', 'sk', 'ملصق', 'sticker', 'sgif'],
    async: async (m, {
       client
    }) => {

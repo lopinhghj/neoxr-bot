@@ -1,5 +1,5 @@
 exports.run = {
-   usage: ['tagall', 'everyone'],
+   usage: ['tagall', 'منشن'],
    async: async (m, {
       client,
       text,
